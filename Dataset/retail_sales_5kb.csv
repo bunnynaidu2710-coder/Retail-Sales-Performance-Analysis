@@ -1,0 +1,81 @@
+Transaction_ID,Product_ID,Product_Name,Category,Sale_Date,Region,City,Quantity,Unit_Price,Discount_Percent,Revenue,Inventory_After_Sale,Sales_Channel,Payment_Method,Order_Status
+T0001,P011,Office Chair,Furniture,2025-02-22,North,Delhi,5,182,0,910.0,40,Mobile App,Net Banking,Completed
+T0002,P010,Blender,Home,2025-09-16,West,Mumbai,1,67,0,67.0,64,Mobile App,UPI,Returned
+T0003,P004,Tablet,Electronics,2025-01-04,Central,Nagpur,4,329,10,1184.4,76,Online,Cash,Completed
+T0004,P005,T-Shirt,Fashion,2025-02-19,South,Chennai,6,28,0,168.0,102,Store,Debit Card,Returned
+T0005,P005,T-Shirt,Fashion,2025-10-10,North,Chandigarh,8,28,5,212.8,25,Store,Net Banking,Completed
+T0006,P010,Blender,Home,2025-05-29,South,Bengaluru,2,66,15,112.2,63,Online,Credit Card,Completed
+T0007,P007,Sneakers,Fashion,2025-04-18,East,Bhubaneswar,6,90,0,540.0,95,Mobile App,Debit Card,Completed
+T0008,P010,Blender,Home,2025-05-19,South,Bengaluru,4,70,5,266.0,102,Mobile App,Net Banking,Completed
+T0009,P011,Office Chair,Furniture,2025-05-18,East,Kolkata,4,176,0,704.0,107,Online,Credit Card,Returned
+T0010,P015,Water Bottle,Accessories,2025-03-15,East,Kolkata,8,32,15,217.6,122,Store,Credit Card,Completed
+T0011,P012,Desk,Furniture,2025-07-05,Central,Indore,5,258,10,1161.0,107,Online,Credit Card,Returned
+T0012,P008,Jacket,Fashion,2025-12-15,North,Delhi,2,109,15,185.3,45,Store,Net Banking,Completed
+T0013,P007,Sneakers,Fashion,2025-01-06,West,Ahmedabad,8,93,10,669.6,225,Mobile App,UPI,Returned
+T0014,P013,Backpack,Accessories,2025-03-22,East,Patna,6,53,0,318.0,116,Store,UPI,Completed
+T0015,P009,Coffee Maker,Home,2025-11-08,South,Bengaluru,2,99,15,168.3,134,Online,Credit Card,Completed
+T0016,P013,Backpack,Accessories,2025-02-27,South,Bengaluru,1,60,5,57.0,9,Store,Debit Card,Completed
+T0017,P001,Laptop,Electronics,2025-02-05,South,Bengaluru,2,817,15,1388.9,129,Mobile App,Credit Card,Completed
+T0018,P011,Office Chair,Furniture,2025-11-07,West,Ahmedabad,3,183,10,494.1,228,Store,Credit Card,Returned
+T0019,P013,Backpack,Accessories,2025-07-11,South,Bengaluru,5,62,15,263.5,171,Store,Net Banking,Completed
+T0020,P002,Smartphone,Electronics,2025-10-11,South,Chennai,2,425,0,850.0,155,Online,Net Banking,Completed
+T0021,P001,Laptop,Electronics,2025-01-17,North,Chandigarh,1,822,0,822.0,236,Store,UPI,Returned
+T0022,P004,Tablet,Electronics,2025-10-20,East,Patna,8,321,10,2311.2,38,Mobile App,Cash,Completed
+T0023,P013,Backpack,Accessories,2025-08-09,West,Pune,4,53,0,212.0,173,Store,Cash,Completed
+T0024,P008,Jacket,Fashion,2025-06-23,North,Chandigarh,2,106,5,201.4,191,Online,Credit Card,Completed
+T0025,P004,Tablet,Electronics,2025-08-25,Central,Nagpur,3,328,0,984.0,76,Online,UPI,Completed
+T0026,P013,Backpack,Accessories,2025-05-02,Central,Bhopal,1,50,0,50.0,242,Online,Cash,Completed
+T0027,P008,Jacket,Fashion,2025-07-19,South,Hyderabad,1,110,5,104.5,5,Store,Cash,Completed
+T0028,P007,Sneakers,Fashion,2025-04-22,Central,Indore,8,89,0,712.0,80,Online,Net Banking,Returned
+T0029,P001,Laptop,Electronics,2025-09-29,East,Kolkata,1,830,10,747.0,240,Online,UPI,Returned
+T0030,P002,Smartphone,Electronics,2025-10-19,South,Chennai,2,422,5,801.8,35,Online,Net Banking,Returned
+T0031,P001,Laptop,Electronics,2025-12-09,Central,Bhopal,7,825,0,5775.0,57,Mobile App,Debit Card,Completed
+T0032,P005,T-Shirt,Fashion,2025-02-07,West,Mumbai,5,39,0,195.0,242,Online,Cash,Returned
+T0033,P010,Blender,Home,2025-06-28,North,Delhi,4,73,0,292.0,243,Online,Credit Card,Completed
+T0034,P005,T-Shirt,Fashion,2025-10-11,South,Hyderabad,5,25,15,106.25,214,Store,UPI,Completed
+T0035,P005,T-Shirt,Fashion,2025-04-18,North,Delhi,3,33,0,99.0,159,Mobile App,Debit Card,Completed
+T0036,P011,Office Chair,Furniture,2025-11-21,East,Patna,8,183,0,1464.0,28,Store,Debit Card,Completed
+T0037,P001,Laptop,Electronics,2025-10-10,East,Kolkata,5,820,15,3485.0,118,Mobile App,Cash,Returned
+T0038,P001,Laptop,Electronics,2025-10-10,North,Delhi,3,816,0,2448.0,154,Online,Cash,Completed
+T0039,P001,Laptop,Electronics,2025-05-08,East,Bhubaneswar,1,826,0,826.0,179,Mobile App,UPI,Completed
+T0040,P013,Backpack,Accessories,2025-04-01,Central,Nagpur,3,57,0,171.0,209,Store,UPI,Completed
+T0041,P012,Desk,Furniture,2025-12-26,East,Bhubaneswar,4,253,0,1012.0,206,Online,Cash,Completed
+T0042,P014,Watch,Accessories,2025-04-27,West,Mumbai,4,159,0,636.0,83,Online,UPI,Completed
+T0043,P007,Sneakers,Fashion,2025-09-18,East,Bhubaneswar,2,93,0,186.0,169,Store,Net Banking,Completed
+T0044,P001,Laptop,Electronics,2025-11-02,North,Jaipur,3,823,0,2469.0,32,Store,Debit Card,Completed
+T0045,P007,Sneakers,Fashion,2025-05-11,Central,Indore,2,97,10,174.6,53,Online,Cash,Completed
+T0046,P009,Coffee Maker,Home,2025-12-07,Central,Indore,4,101,5,383.8,22,Store,Net Banking,Completed
+T0047,P011,Office Chair,Furniture,2025-06-17,North,Chandigarh,5,184,15,782.0,109,Store,Debit Card,Returned
+T0048,P003,Headphones,Electronics,2025-06-04,South,Hyderabad,7,80,10,504.0,150,Store,Net Banking,Completed
+T0049,P005,T-Shirt,Fashion,2025-08-15,East,Kolkata,7,35,5,232.75,118,Mobile App,Credit Card,Returned
+T0050,P008,Jacket,Fashion,2025-11-21,South,Bengaluru,2,114,10,205.2,174,Mobile App,Debit Card,Completed
+T0051,P014,Watch,Accessories,2025-01-13,South,Bengaluru,5,152,0,760.0,42,Online,Credit Card,Completed
+T0052,P010,Blender,Home,2025-07-16,North,Jaipur,7,71,15,422.45,183,Store,Cash,Completed
+T0053,P003,Headphones,Electronics,2025-12-23,North,Delhi,7,82,0,574.0,210,Mobile App,Cash,Completed
+T0054,P009,Coffee Maker,Home,2025-09-29,South,Chennai,8,94,5,714.4,175,Mobile App,Net Banking,Completed
+T0055,P013,Backpack,Accessories,2025-09-01,West,Ahmedabad,7,64,0,448.0,195,Store,Debit Card,Completed
+T0056,P014,Watch,Accessories,2025-02-09,East,Patna,8,152,0,1216.0,117,Mobile App,Debit Card,Completed
+T0057,P005,T-Shirt,Fashion,2025-07-16,East,Bhubaneswar,2,29,0,58.0,64,Mobile App,Credit Card,Completed
+T0058,P002,Smartphone,Electronics,2025-04-16,West,Pune,6,429,5,2445.3,20,Store,Cash,Returned
+T0059,P012,Desk,Furniture,2025-06-30,North,Chandigarh,7,260,0,1820.0,246,Store,Cash,Completed
+T0060,P009,Coffee Maker,Home,2025-08-12,Central,Indore,4,105,0,420.0,74,Store,UPI,Completed
+T0061,P006,Jeans,Fashion,2025-10-01,West,Ahmedabad,3,69,0,207.0,164,Online,Cash,Returned
+T0062,P010,Blender,Home,2025-01-26,North,Delhi,7,69,5,458.85,51,Store,Cash,Completed
+T0063,P004,Tablet,Electronics,2025-08-04,West,Pune,6,327,0,1962.0,197,Store,UPI,Completed
+T0064,P001,Laptop,Electronics,2025-11-30,Central,Bhopal,6,822,15,4192.2,22,Online,UPI,Completed
+T0065,P004,Tablet,Electronics,2025-12-09,North,Chandigarh,3,322,0,966.0,126,Online,Net Banking,Completed
+T0066,P008,Jacket,Fashion,2025-02-25,East,Bhubaneswar,3,108,0,324.0,84,Mobile App,UPI,Completed
+T0067,P010,Blender,Home,2025-11-18,West,Pune,4,67,10,241.2,181,Online,UPI,Completed
+T0068,P014,Watch,Accessories,2025-12-05,Central,Bhopal,1,156,10,140.4,114,Store,UPI,Returned
+T0069,P011,Office Chair,Furniture,2025-07-05,East,Kolkata,7,190,0,1330.0,115,Mobile App,Cash,Completed
+T0070,P007,Sneakers,Fashion,2025-10-31,South,Bengaluru,5,100,5,475.0,116,Store,Debit Card,Completed
+T0071,P014,Watch,Accessories,2025-11-09,North,Jaipur,8,152,5,1155.2,150,Mobile App,Cash,Completed
+T0072,P001,Laptop,Electronics,2025-05-13,West,Pune,3,830,0,2490.0,95,Store,Debit Card,Returned
+T0073,P012,Desk,Furniture,2025-07-28,East,Patna,1,251,0,251.0,66,Store,Net Banking,Completed
+T0074,P012,Desk,Furniture,2025-05-31,West,Ahmedabad,8,259,0,2072.0,28,Online,Cash,Completed
+T0075,P005,T-Shirt,Fashion,2025-10-09,Central,Nagpur,8,36,5,273.6,195,Store,Debit Card,Completed
+T0076,P005,T-Shirt,Fashion,2025-06-11,East,Bhubaneswar,4,28,15,95.2,54,Online,Net Banking,Completed
+T0077,P004,Tablet,Electronics,2025-09-26,South,Bengaluru,8,323,15,2196.4,155,Mobile App,Debit Card,Completed
+T0078,P014,Watch,Accessories,2025-01-08,South,Hyderabad,4,156,0,624.0,82,Mobile App,Net Banking,Completed
+T0079,P005,T-Shirt,Fashion,2025-09-09,North,Delhi,5,29,15,123.25,227,Online,UPI,Returned
+T0080,P005,T-Shirt,Fashion,2025-05-10,West,Pune,8,35,0,280.0,18,Store,UPI,Completed

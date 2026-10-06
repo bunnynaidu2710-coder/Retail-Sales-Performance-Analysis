@@ -1,7 +1,31 @@
-# Dataset Documentation
+# Dataset
 
-Expected input: `retail_sales_5kb.csv`
+File: `retail_sales_5kb.csv`
 
-Important fields: transaction_id, product_id, product_name, category, date, region, city, quantity, unit_price, discount, sales_amount, customer_id, channel, payment_method, status.
+This is the supplied retail sales dataset used for the project.
 
-The complete original CSV was not available in the supplied project materials, so this repository documents the expected dataset rather than inventing missing raw records.
+- Rows: 80
+- Columns: 15
+- Date range: 2025-01-04 to 2025-12-26
+
+## Schema
+
+| Column | Type / Meaning |
+|---|---|
+| Transaction_ID | Transaction identifier |
+| Product_ID | Product identifier |
+| Product_Name | Product name |
+| Category | Product category |
+| Sale_Date | Sale date |
+| Region | Sales region |
+| City | Sales city |
+| Quantity | Units sold |
+| Unit_Price | Unit selling price |
+| Discount_Percent | Discount percentage |
+| Revenue | Revenue for the transaction |
+| Inventory_After_Sale | Remaining inventory |
+| Sales_Channel | Sales channel |
+| Payment_Method | Payment method |
+| Order_Status | Order status |
+
+The dataset contains no missing values in the supplied file.
